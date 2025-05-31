@@ -1,1 +1,1 @@
-# Neural-Networks---Scratch-Implementations
+# Neural-Networks-Scratch implementations
